@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nassim S. – DevOps Portfolio
+# 👋 Hi, I'm Nassim S. – DevOps Engineer
 
 I'm a System & Web Application Engineer transitioning to DevOps, with 5+ years of experience in system administration (Windows/Linux) and Java web development.  
 Through continuous self-learning since 2018, I've built hands-on skills in DevOps tools and practices including CI/CD, containerization, cloud provisioning, Infrastructure as Code, and monitoring.
