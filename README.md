@@ -15,7 +15,7 @@ I'm a System and Web Application Engineer transitioning into a DevOps role. With
 
 ## 📁 Featured Projects
 
-### 1️⃣ Complete CI/CD Pipeline for a Spring Boot App 🔗 [Click Here to View Repo](https://github.com/Enigma-X94/jenkins-ci-cd-springboot-angular-mysql)
+### 1️⃣ Complete CI/CD Pipeline for a Spring Boot App 🔗 [Click Here to View Repo](https://github.com/Enigma-X94/jenkins-ci-cd-springboot)
 
 
 
